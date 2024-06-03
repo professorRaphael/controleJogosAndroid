@@ -16,7 +16,12 @@
 - React Native
 - Expo
 - Sqlite
+  - npx expo install expo-sqlite
 - React navigation
+  - npm install @react-navigation/native
+  - npm install @react-navigation/stack
+
+
 
 ## Estrutura do Projeto - Apenas o que foi modificado
 ```
